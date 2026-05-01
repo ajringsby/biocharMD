@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+*.lammpstrj
+*.dump
+*.restart
+*.out
+*.log
+log.lammps
+slurm-*.out
+.ipynb_checkpoints/
+__pycache__/
